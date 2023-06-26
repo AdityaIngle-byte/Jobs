@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "164766641096",
+    "project_id": "high5jobs-1fbec",
+    "storage_bucket": "high5jobs-1fbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164766641096:android:a61eedb61eba5b0a772efd",
+        "android_client_info": {
+          "package_name": "com.hi5jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164766641096-m0cgiufn1i61vors8bcec30bqtef2802.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hi5jobs",
+            "certificate_hash": "6bece80658c152885805aeb3ffd1eeb7c77eae54"
+          }
+        },
+        {
+          "client_id": "164766641096-funjqt9g4ocegl95cvh5d2kkcfbu31o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtl1juohsJ83mh7eGb_BPe32guyiJrk9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164766641096-funjqt9g4ocegl95cvh5d2kkcfbu31o6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164766641096-v0harmcn822m2t1bcml9q1dei5om60hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Hi5Jobs",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

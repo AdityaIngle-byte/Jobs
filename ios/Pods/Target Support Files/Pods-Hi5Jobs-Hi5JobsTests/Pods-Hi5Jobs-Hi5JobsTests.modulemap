@@ -1,0 +1,6 @@
+module Pods_Hi5Jobs_Hi5JobsTests {
+  umbrella header "Pods-Hi5Jobs-Hi5JobsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

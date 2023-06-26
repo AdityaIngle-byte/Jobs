@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hi5jobs.app-mergeDebugResources-33:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/adityaingle/.gradle/caches/transforms-3/e2a06fbf1db0940d3045823cb1a36aed/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
